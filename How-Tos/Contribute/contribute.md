@@ -13,14 +13,13 @@ permalink: ./How-Tos/Contribute/contribute.html
 
 <a name="core"></a>
 <h3>Core Blockchain Discussions</h3>
-<p>The first place to keep up with core blockchain topics is on the <a href="https://github.com/ArQmAix/ArQmA">ArQmA github project</a>. The ArQmA developer team watches the issue discussions and enhancement proposals closely on github, and when there is a lot of community feedback here, it lets the Devs know which issues are important. You can click on the <b>Issues</b> tab or the <b>Pull requests</b> tab to find topics of discussion.</p>
+<p>The first place to keep up with core blockchain topics is on the <a href="https://github.com/arqma/arqma">ArQmA github project</a>. The ArQmA developer team watches the issue discussions and enhancement proposals closely on github, and when there is a lot of community feedback here, it lets the Devs know which issues are important. You can click on the <b>Issues</b> tab or the <b>Pull requests</b> tab to find topics of discussion.</p>
 <p>Another place that the Devs hang out regularly is the ArQmA discord and Telegram channel. The discrd channel is a fine place to ask questions and get help as well. There is also a bridge that allows you to easily read the Telegram chats from within the Discord community (see below).</p>
 
 <a name="community_discussions"></a>
 <h3>Community Discussions</h3>
 <p>There are several places which are more focused on general community discussions. These are places where you can ask questions, propose ideas, and get help with using ArQmA.
-
-* the <a href="https://discord.gg/s9BQpJT">ArQmA Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the ArQmA sub-reddit and the Telegram channel.</p>
+The <a href="https://discord.gg/s9BQpJT">ArQmA Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the ArQmA sub-reddit and the Telegram channel.</p>
 
 <a name="node"></a>
 <h2>Run a Full Local Node or Public Node</h2>
