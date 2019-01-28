@@ -587,9 +587,9 @@ The transaction fee will also be higher for transactions that contain more data,
 
 The ArQmA wallet application also optimizes the money sent to the smallest number of transactions to reduce the size of the data that gets combined into each block.  The transactions from client wallets are smaller in footprint to be sent to the mempool of the blockchain.
 
-0 The amount sent consists of many small amounts that the sender received
+The amount sent consists of many small amounts that the sender received
 
-0 The sender increases the level of privacy, by requesting a higher ring size than the default
+The sender increases the level of privacy, by requesting a higher ring size than the default
 
 Note on transaction fees, block size, and transaction throughput:
 
@@ -601,23 +601,23 @@ When creating a block of transactions, if the sum of the transaction fees are gr
 
 ## 5.1.1 Social/Community
 
-Website: https://arqma.com/
+Website: [https://arqma.com/](https://arqma.com/)
 
-BitcoinTalk ANN: https://bitcointalk.org/index.php?topic=4474605.0
+BitcoinTalk ANN: [https://bitcointalk.org/index.php?topic=4474605.0](https://bitcointalk.org/index.php?topic=4474605.0)
 
-Youtube channel: https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA
+Youtube channel: [https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA](https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA)
 
-Discord invite: https://discord.gg/s9BQpJT
+Discord invite: [https://discord.gg/s9BQpJT]](https://discord.gg/s9BQpJT)
 
-Github: https://github.com/Arqma (source, binaries, wallets, explorer, pool)
+Github: [https://github.com/Arqma](https://github.com/Arqma) (source, binaries, wallets, explorer, pool)
 
 IRC:  To be determined
 
-Medium blog: https://medium.com/@arqma
+Medium blog: [https://medium.com/@ArQmANetwork](https://medium.com/@ArQmANetwork)
 
-Reddit: https://www.reddit.com/r/arqma/
+Reddit: [https://www.reddit.com/r/arqma/](https://www.reddit.com/r/arqma/)
 
-Telegram: https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw
+Telegram: [https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw](https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw)
 
 Twitter: [https://twitter.com/ArQmA\_Network](https://twitter.com/ArQmA_Network)
 
