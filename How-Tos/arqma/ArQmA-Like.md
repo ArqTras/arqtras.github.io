@@ -9,38 +9,59 @@
 ##### ArQmA Features
 
 2.1 Secure
+
 2.2 Lightweight
+
 2.3 Private and Untraceable
+
 2.4 Low Barrier to Participation
+
 2.5 No pseudo-centralization by ASICS, no arbitrage by Nicehash
 
 ##### ArQmA Differentiation
 
 3.1 vs. Bitcoin
+
 3.2 vs. Litecoin
+
 3.3 vs. Monero
+
 3.4 vs. Dash
+
 3.5 vs. Zcash
+
 3.6 vs. Ripple
 
 ##### ArQmA Implementation
 
 4.1 Achieving Trust-less Transactions
+
 4.2 Achieving Anonymous Transactions, Open Alias support.
+
 4.3 Coin Minting Process
+
 4.4 Transaction Fees
 
 ##### ArQmA Community
 
 5.1 Links
+
 5.2 Mining
+
 5.3 Exchanges
+
 5.4 Wallets
+
 5.5 Development Team
+
 5.6 Current Work and Future Plans
+
 5.6.1 Road map of future work
+
 5.6.2 Future plans
+
 5.7 Network design and redundancy.
+
 5.8 Github repository report and sources of original code.
 
 ## Disclaimer
