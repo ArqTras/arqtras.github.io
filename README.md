@@ -21,7 +21,7 @@ In the main project directory:
 Contributions are encouraged!
 
 *   **Suggestions/Additions:** Feel free to open an issue to report any errors, or to make suggestions, or to propose adding new content.
-*   **Link to a How-To:** If you want an AEON how-to linked from here, open an issue and someone will review and add it.
+*   **Link to a How-To:** If you want an ArQmA how-to linked from here, open an issue and someone will review and add it.
 *   **Hosting a How-To:** If you want to write a How-To and host it here, use the content in the **How-Tos** folder as examples. Create a branch and add a new How-To sub-folder. When the how-to is ready, add a link to it from the appropriate **.md** file in the **_includes** folder, and do a Pull Request.
 
 If there is not a timely response here on github, surf over to the ArQmA Discord community, and comment in the **publications** channel.
