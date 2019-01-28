@@ -19,7 +19,7 @@
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
 
-	<h2>ArQmA</h2>
+	<h3>ArQmA</h3>
         <p>ArQmA - Revolution of the monetary system. Welcome!</p>
 
         <input type="checkbox" name="accordion" id="official_resources" checked>
