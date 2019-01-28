@@ -37,7 +37,7 @@
         </div>
 
         <input type="checkbox" name="accordion" id="support" checked>
-        <label for="support"><h2>Support/Docs</h2></label>
+        <label for="support"><h1>Support/Docs</h1></label>
         <div class="panel">
           {% capture support %}{% include support.md %}{% endcapture %}
           {{ support | markdownify }}
