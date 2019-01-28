@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/ArqTras/arqmacommunity.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<link rel="stylesheet" href="https://unpkg.com/flexboxgrid2@7.2.1/flexboxgrid2.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+-->
+</head>
+<body>
 
-### Markdown
+<header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</header>
 
-```markdown
-Syntax highlighted code block
+<main>
+  <div class="container">
+    <div class="row center-xs">
+      <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
 
-# Header 1
-## Header 2
-### Header 3
+	<h1>AEOn</h1>
+        <p>ArQmA - revolution in monetary system. Welcome!</p>
 
-- Bulleted
-- List
+        <input type="checkbox" name="accordion" id="official_resources" checked>
+        <label for="official_resources"><h2>Official Resources</h2></label>
+        <div class="panel">
+          {% capture official_resources %}{% include official_resources.md %}{% endcapture %}
+          {{ official_resources | markdownify }}
+        </div>
 
-1. Numbered
-2. List
+        <input type="checkbox" name="accordion" id="resources" checked>
+        <label for="resources"><h2>Resources</h2></label>
+        <div class="panel">
+          {% capture resources %}{% include resources.md %}{% endcapture %}
+          {{ resources | markdownify }}
+        </div>
 
-**Bold** and _Italic_ and `Code` text
+        <input type="checkbox" name="accordion" id="support" checked>
+        <label for="support"><h2>Support</h2></label>
+        <div class="panel">
+          {% capture support %}{% include support.md %}{% endcapture %}
+          {{ support | markdownify }}
+        </div>
 
-[Link](url) and ![Image](src)
-```
+        <input type="checkbox" name="accordion" id="contributing" checked>
+        <label for="contributing"><h2>Contributing</h2></label>
+        <div class="panel">
+          {% capture contributing %}{% include contributing.md %}{% endcapture %}
+          {{ contributing | markdownify }}
+        </div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+        <input type="checkbox" name="accordion" id="developer-guides" checked>
+        <label for="developer-guides"><h2>Developer Guides</h2></label>
+        <div class="panel">
+          {% capture developer-guides %}{% include developer-guides.md %}{% endcapture %}
+          {{ developer-guides | markdownify }}
+        </div>
 
-### Jekyll Themes
+      </div>
+    </div>
+  </div>
+</main>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArqTras/arqmacommunity.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<footer>
+</footer>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
