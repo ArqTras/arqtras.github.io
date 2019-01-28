@@ -20,7 +20,7 @@ permalink: ./How-Tos/Contribute/contribute.html
 <h3>Community Discussions</h3>
 <p>There are several places which are more focused on general community discussions. These are places where you can ask questions, propose ideas, and get help with using ArQmA.
 
-*   the <a href="https://discord.gg/s9BQpJT">ArQmA Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the ArQmA sub-reddit and the Telegram channel.</p>
+* the <a href="https://discord.gg/s9BQpJT">ArQmA Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the ArQmA sub-reddit and the Telegram channel.</p>
 
 <a name="node"></a>
 <h2>Run a Full Local Node or Public Node</h2>
