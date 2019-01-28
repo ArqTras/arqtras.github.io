@@ -19,8 +19,8 @@
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
 
-	<h1>AEOn</h1>
-        <p>ArQmA - revolution in monetary system. Welcome!</p>
+	<h1>ArQmA</h1>
+        <p>ArQmA - Revolution of the monetary system. Welcome!</p>
 
         <input type="checkbox" name="accordion" id="official_resources" checked>
         <label for="official_resources"><h2>Official Resources</h2></label>
