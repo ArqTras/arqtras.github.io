@@ -1,4 +1,4 @@
-<h1 id="copyright-2018-2019-the-arqma-project"><strong>Copyright 2018-2019 The ArQma Project</strong></h1>
+<h1 id="copyright-2018-2019-the-arqma-project"><strong><font color="ffd008">Copyright 2018-2019 The ArQma Project</font></strong></h1>
 <h2 id="the-arqma-project---secured-digital-currency">The ArQmA Project - Secured Digital Currency</h2>
 <h4 id="arqmas-vision">Arqma's Vision:</h4>
 <p>1 Flexible, private, crypto currency with a payment gateway for e-commerce and personal use.</p>
