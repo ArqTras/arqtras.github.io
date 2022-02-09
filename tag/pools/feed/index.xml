@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pools | ArQmA</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Decentralized public blockchain open source project</description>
+	<lastBuildDate>Sat, 02 Jun 2018 13:47:37 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2018/08/arqma-logo-v1-150x150.png</url>
+	<title>pools | ArQmA</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is ArQmA</title>
+		<link>./../../../arqma/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2018 13:47:37 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[pools]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=6705</guid>
+
+					<description><![CDATA[ArQmA is a privacy coin, born out of frustration with other projects. The founders are a collection of miners that were tired of ASIC takeovers, 51% attacks, poorly managed communities, and all the other problems that make mining difficult.]]></description>
+										<content:encoded><![CDATA[ArQmA is a privacy coin, born out of frustration with other projects. The founders are a collection of miners that were tired of ASIC takeovers, 51% attacks, poorly managed communities, and all the other problems that make mining difficult.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

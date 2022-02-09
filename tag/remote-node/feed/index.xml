@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Remote Node | ArQmA</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Decentralized public blockchain open source project</description>
+	<lastBuildDate>Thu, 02 Dec 2021 16:10:14 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2018/08/arqma-logo-v1-150x150.png</url>
+	<title>Remote Node | ArQmA</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Setting up Arqma on VPS</title>
+		<link>./../../../setting-up-arqma-on-vps/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 14 Nov 2021 13:08:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[arqma]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Remote Node]]></category>
+		<category><![CDATA[Service Nodes]]></category>
+		<category><![CDATA[VPS]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=10254</guid>
+
+					<description><![CDATA[Many people ask the question &#8220;How can I set up a remote node on VPS&#8221;. There are many reasons that someone would want to have a remote node available whether it is for personal use or public use. One of the main reasons to have a node running is to support the network and with&#8230; <a class="more-link" href="./../../../setting-up-arqma-on-vps/index.html">Continue reading <span class="screen-reader-text">Setting up Arqma on VPS</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10254" class="elementor elementor-10254" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-f207b59 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f207b59" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d01766c" data-id="d01766c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8eec1f5 elementor-widget elementor-widget-text-editor" data-id="8eec1f5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>
+	Many people ask the question &ldquo;How can I set up a remote node on VPS&rdquo;. There are many reasons that someone would want to have a remote node available whether it is for personal use or public use. One of the main reasons to have a node running is to support the network and with the implementation of ArqNodes it is recommended to have a VPS running with a service node on it instead of your local home network. These nodes will help relay transactions within the Arqma network and create passive income for operators. Block rewards will be split to node providers to help fund the operation of the network. To set up a fully operational node on VPS you need a few things before you get started:
+</p>
+<ul>
+	<li>
+		A VPS instance running Ubuntu 20.04 or higher.&nbsp;
+		<a href="https://contabo.com/en/vps/">
+			Contabo
+		</a>
+		&nbsp;is highly recommended for its pricing and uptime. No shill links here.
+	</li>
+	<li>
+		Some light coding skills to run some copy-paste commands on your VPS.
+	</li>
+	<li>
+		Experience with terminal/bash/CMD prompts on your local PC at home.
+	</li>
+	<li>
+		About two hours of your time to open an account and purchase a VPS, and the time to set up your VPS to run a full node.
+	</li>
+	<li>
+		Any additional help can be found in our Arqma&nbsp;
+		<a href="https://discord.com/invite/s9BQpJT">
+			Discord
+		</a>
+		,&nbsp;
+		<a href="https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw">
+			Telegram
+		</a>
+		, or&nbsp;
+		<a href="https://medium.com/@arqmacommunity/setting-up-arqma-on-vps-c4d5dc4f7d5d#ArQmA:matrix.org">
+			Matrix
+		</a>
+		&nbsp;chat if you are having issues getting set up or operating the node.
+	</li>
+</ul>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-aa3c27e elementor-widget elementor-widget-image" data-id="aa3c27e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="1_A3O5UKrQqDspGifj-71STA">
+							<img width="750" height="305" src="./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA-1024x416-1.jpg" class="attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA-1024x416-1.jpg 1024w, ./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA-300x122-1.jpg 300w, ./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA-768x312-1.jpg 768w, ./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA-1536x624-1.jpg 1536w, ./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA-1568x637-1.jpg 1568w, ./../../../wp-content/uploads/2021/11/1_A3O5UKrQqDspGifj-71STA.jpg 1604w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:40.65%;max-width:1604px" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">CLI windows, something you will get to use setting up your VPS</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5eb614a elementor-widget elementor-widget-text-editor" data-id="5eb614a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				Let’s get into setting up a VPS with Arqma node on it. After you have purchased a VPS instance on your preferred provider, they will send you an email with the login credentials for the instance including the IP address (example 123.123.456.43) that you will have to remotely connect to from your personal PC. If you have OSX or Linux you can connect right through the bash or terminal window.					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c2a320d elementor-widget elementor-widget-image" data-id="c2a320d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="1_sfxj2UOiooUxvl0Z8lM8sQ">
+							<img width="750" height="237" src="./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-1024x323-1.jpg" class="attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-1024x323-1.jpg 1024w, ./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-300x95-1.jpg 300w, ./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-768x242-1.jpg 768w, ./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-1536x484-1.jpg 1536w, ./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-2048x646-1.jpg 2048w, ./../../../wp-content/uploads/2021/11/1_sfxj2UOiooUxvl0Z8lM8sQ-1568x495-1.jpg 1568w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:31.54%;max-width:2400px" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">OSX Terminal location in the launchpad, you can also search for it. It is recommended to save to your dock.</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1fd54de elementor-widget elementor-widget-text-editor" data-id="1fd54de" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>If you use Windows, <br /><a href="https://www.puttygen.com/download-putty"><br />Putty<br /></a><br /> is a good recommendation for SSH connection to a remote PC. Putty can also be used for OSX and Linux distros but terminal is the easiest to set up. Putty requires some additional setup and information regarding that is located on their website. Once we have the IP address we need to SSH to the VPS instance:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7e2fd4e elementor-widget elementor-widget-code-highlight" data-id="7e2fd4e" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>ssh root@123.123.456.43</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ba85c1c elementor-widget elementor-widget-text-editor" data-id="ba85c1c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Your terminal will ask for the password you set up on your VPS provider if they did not automagically generate one for you. Enter the password and it should ask you for SSH keys if they are correct. Accept (enter YES) and it should take you to the main login screen of the VPS:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a3075ae elementor-widget elementor-widget-image" data-id="a3075ae" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="./../../../wp-content/uploads/2021/11/1_ZmwT5pyGH2hVYoTE_IC5Qw.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="1_ZmwT5pyGH2hVYoTE_IC5Qw">
+							<img width="750" height="396" src="./../../../wp-content/uploads/2021/11/1_ZmwT5pyGH2hVYoTE_IC5Qw-1024x541-1.jpg" class="attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2021/11/1_ZmwT5pyGH2hVYoTE_IC5Qw-1024x541-1.jpg 1024w, ./../../../wp-content/uploads/2021/11/1_ZmwT5pyGH2hVYoTE_IC5Qw-300x158-1.jpg 300w, ./../../../wp-content/uploads/2021/11/1_ZmwT5pyGH2hVYoTE_IC5Qw-768x406-1.jpg 768w, ./../../../wp-content/uploads/2021/11/1_ZmwT5pyGH2hVYoTE_IC5Qw.jpg 1070w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:52.8%;max-width:1070px" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">FYI if you are wondering this is the Homebrew color scheme on OSX, install homebrew to get this function.</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-cd66057 elementor-widget elementor-widget-text-editor" data-id="cd66057" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Now that we are connected to the VPS we need to install some libraries to help us build the binaries from scratch. These will help us to build future binaries (executables) if there are updates to the core code or enhancements in-between release builds. Note that there are some extras added in this list to build the onion explorer for your VPS so you can host a block explorer and service node/remote node at the same VPS.</p><p> </p><p>Install libraries needed to build Arqma executables (copy paste):</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b26fbdf elementor-widget elementor-widget-code-highlight" data-id="b26fbdf" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard word-wrap">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>sudo apt update && sudo apt install --yes git build-essential curl cmake pkg-config libboost-all-dev libssl-dev libsodium-dev libunwind-dev liblzma-dev libreadline-dev libldns-dev libexpat1-dev doxygen graphviz libudev-dev libusb-1.0–0-dev libhidapi-dev xsltproc gperf autoconf automake libtool-bin tmux nano ufw</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9265b0f elementor-widget elementor-widget-text-editor" data-id="9265b0f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Once that has finished, run it again to ensure that all libs have been installed on your VPS. After that, we are going to use Tmux to open a window inside your window to allow us to safely disconnect from our VPS once we are done. You can do this by running the tmux command and it will open a new window</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-79ea668 elementor-widget elementor-widget-code-highlight" data-id="79ea668" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>tmux</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ffcefe7 elementor-widget elementor-widget-text-editor" data-id="ffcefe7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>You can have many tmux windows open ad the same time. Other commands:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-75f477b elementor-widget elementor-widget-code-highlight" data-id="75f477b" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>tmux attach -t 0
+## Note: this will open the first tmux window you created
+exit
+## This exits the current tmux window and you will lose progress
+ctrl + b -> d
+## Holding the control key and b then letting go and pressing d    
+## closes the tmux instance but leaves it open for you to come back   
+## to at a later time. This allows you to multitask on your VPS</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f0cef0c elementor-widget elementor-widget-text-editor" data-id="f0cef0c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>NOTE: If you do not want to build the binaries yourself and or do not feel comfortable with command line use, you can download the latest release and use those as well:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-dcb95a9 elementor-widget elementor-widget-code-highlight" data-id="dcb95a9" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard word-wrap">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>wget "https://github.com/arqma/arqma/releases/download/v0.6.1/arqma-x86_64-linux-gnu.tar.gz" && tar xf arqma-x86_64-linux-gnu.tar.gz
+## After it finishes downloading and unzipping just CD to that folder and run the binaries with the commands at the end of this tutorial. For future reference just visit the official github repo to see the latest zip version number and update the command above with the current release version. Example- replace v0.6.1 with v0.7.0 for the next release version. </xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ecce7a4 elementor-widget elementor-widget-text-editor" data-id="ecce7a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Clone the Arqma repository to the desktop in your tmux window:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c33d445 elementor-widget elementor-widget-code-highlight" data-id="c33d445" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>git clone --recursive https://github.com/arqma/arqma</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5d66ccd elementor-widget elementor-widget-text-editor" data-id="5d66ccd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Move yourself to the Arqma folder after it finishes:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-13cc552 elementor-widget elementor-widget-code-highlight" data-id="13cc552" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>cd arqma</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-387eb88 elementor-widget elementor-widget-text-editor" data-id="387eb88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Switch to the latest release branch:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4a39c2 elementor-widget elementor-widget-code-highlight" data-id="f4a39c2" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>git checkout v0.6.1</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-952fecd elementor-widget elementor-widget-text-editor" data-id="952fecd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>NOTE: For testing pre-release content for testnet make sure after you clone the repository to switch to the DEV branch:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c580831 elementor-widget elementor-widget-code-highlight" data-id="c580831" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>git checkout dev</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0af7024 elementor-widget elementor-widget-text-editor" data-id="0af7024" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Update all the submodules for the repository:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4812c1c elementor-widget elementor-widget-code-highlight" data-id="4812c1c" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>git submodule init && git submodule update</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-123a117 elementor-widget elementor-widget-text-editor" data-id="123a117" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Build the Arqma executables:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1c60987 elementor-widget elementor-widget-code-highlight" data-id="1c60987" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>make release -j 3</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b832f3c elementor-widget elementor-widget-text-editor" data-id="b832f3c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>OR — Build onion explorer specific executables:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-52050d8 elementor-widget elementor-widget-code-highlight" data-id="52050d8" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>USE_SINGLE_BUILDDIR=1 make -j 3</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8ede2b1 elementor-widget elementor-widget-text-editor" data-id="8ede2b1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Note: using -j 3 will use more CPU cores to build faster. SPEEEEEEEDDD!!!!</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f646d42 elementor-widget elementor-widget-code-highlight" data-id="f646d42" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>[100%] Linking CXX executable ../../bin/arqmad
+make[3]: Leaving directory ‘/root/arqma/build/release’
+make[3]: Leaving directory ‘/root/arqma/build/release’
+[100%] Built target daemon
+make[2]: Leaving directory ‘/root/arqma/build/release’</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-89f7946 elementor-widget elementor-widget-text-editor" data-id="89f7946" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Yay 100% completed. If your VPS does not build completely you are either missing some libraries needed to build or there is another issue going on. Please reach out on one of our social platforms to get some additional help. Once the binaries have been successfully built, we need to move to the folder and copy the binaries to an easier location to access:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f3ef0a9 elementor-widget elementor-widget-code-highlight" data-id="f3ef0a9" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>cd ~/arqma/build/release/bin</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c8119b6 elementor-widget elementor-widget-text-editor" data-id="c8119b6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Check what is in the folder to make sure everything is there:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1412e1c elementor-widget elementor-widget-code-highlight" data-id="1412e1c" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>ls
+## This should print whats in the folder:
+arqma-blockchain-ancestry  
+arqma-blockchain-mark-spent-outputs      
+arqmad 
+arqma-blockchain-depth     
+arqma-blockchain-prune                   
+arqma-generate-ssl-certificate 
+arqma-blockchain-export    
+arqma-blockchain-prune-known-spent-data  
+arqma-wallet-cli 
+arqma-blockchain-import    
+arqma-blockchain-usage                   
+arqma-wallet-rpc
+move back to the main folder location with:
+cd</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-07a9995 elementor-widget elementor-widget-text-editor" data-id="07a9995" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Now that we are at the main folder location we can create a new folder on the desktop for ease of access to our Arqma binaries:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a8b3346 elementor-widget elementor-widget-code-highlight" data-id="a8b3346" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>mkdir runme
+## you can name this whatever you want like 'mkdir catsRcute' or something you like</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-19331c2 elementor-widget elementor-widget-text-editor" data-id="19331c2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Now let’s copy the built binaries to the new folder we created:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-192b879 elementor-widget elementor-widget-code-highlight" data-id="192b879" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>cp ~/arqma/build/release/bin/* ~/runme</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d6c8627 elementor-widget elementor-widget-text-editor" data-id="d6c8627" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Now move to the folder to make sure that everything was copied:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9b67d57 elementor-widget elementor-widget-code-highlight" data-id="9b67d57" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>cd runme
+##then
+ls
+##everything should be there:
+arqma-blockchain-ancestry  
+arqma-blockchain-mark-spent-outputs      
+arqmad 
+arqma-blockchain-depth     
+arqma-blockchain-prune                   
+arqma-generate-ssl-certificate 
+arqma-blockchain-export    
+arqma-blockchain-prune-known-spent-data  
+arqma-wallet-cli 
+arqma-blockchain-import    
+arqma-blockchain-usage                   
+arqma-wallet-rpc</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d83948d elementor-widget elementor-widget-text-editor" data-id="d83948d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Now that we have everything set up, it’s time to get the Daemon up and running so we can sync with the network. First, we need to set some firewall rules so we can have incoming and outgoing transactions working with our RPC and daemon/wallet:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ffe2fc2 elementor-widget elementor-widget-code-highlight" data-id="ffe2fc2" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>ufw allow 19999 19995 19994 19993 19990 39993 39994 39995
+## 3999* numbers are for stagenet
+##after this you can check the status here:
+ufw status</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-423b50e elementor-widget elementor-widget-spacer" data-id="423b50e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dabc699 elementor-widget elementor-widget-heading" data-id="dabc699" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Now we can start our daemon:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-115815b elementor-widget elementor-widget-code-highlight" data-id="115815b" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>./arqmad --restricted-rpc --rpc-bind-ip 0.0.0.0 --confirm-external-bind</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3a2c21e elementor-widget elementor-widget-text-editor" data-id="3a2c21e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>If you are planning to run a node on the testnet for any reason, you can simply add the flag at the end of the line to run the daemon on that branch.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c5f1908 elementor-widget elementor-widget-code-highlight" data-id="c5f1908" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>./arqmad --restricted-rpc --rpc-bind-ip 0.0.0.0 --confirm-external-bind --stagenet</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dcdbd88 elementor-widget elementor-widget-text-editor" data-id="dcdbd88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>On an average VPS, this should take up to 8–10hrs unless you have a higher-end VPS with multiple cores and ram with SSD to sync the mainnet blockchain. After you start the node you can exit the tmux instance with the ctrl+b then d and exit the terminal session so you can leave and go get a coffee or tea and meet up with your friends. After about 8hrs you can return and SSH back to your VPS and check up on your node:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-47d89da elementor-widget elementor-widget-code-highlight" data-id="47d89da" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>tmux attach -t 0</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c43ac9e elementor-widget elementor-widget-text-editor" data-id="c43ac9e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>If everything worked it should be fully synced and look like this:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7fe8d59 elementor-widget elementor-widget-image" data-id="7fe8d59" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+													<a href="./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="1_YRlNh2g3w6ACgNcp0w8Eug">
+							<img width="750" height="150" src="./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug-1024x205.png" class="attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug-1024x205.png 1024w, ./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug-300x60.png 300w, ./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug-768x153.png 768w, ./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug-1536x307.png 1536w, ./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug-1568x313.png 1568w, ./../../../wp-content/uploads/2021/11/1_YRlNh2g3w6ACgNcp0w8Eug.png 1722w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:19.98%;max-width:1722px" />								</a>
+														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-37f4b28 elementor-widget elementor-widget-text-editor" data-id="37f4b28" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Once it completes you need to run ‘Exit’ to stop the daemon and then we need to announce to the world that we are a public node:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-aea54cd elementor-widget elementor-widget-code-highlight" data-id="aea54cd" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>./arqmad --public-node --restricted-rpc --rpc-bind-ip 0.0.0.0 --confirm-external-bind</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6d858aa elementor-widget elementor-widget-text-editor" data-id="6d858aa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Remember that if you are running a testnet node, do not forget to add the flag at the end. Once it syncs you can close the tmux window and check the connection with your desktop Electron wallet by entering your remote node IP address in the address field and connecting as a remote node. Now you don’t need to store your blockchain on your local PC and use the one you are operating on your remote node that others can now access. If you plan to run a mainnet and testnet node on the same VPS, make sure to copy the folder with your binaries on the desktop so that you can run two tmux windows and two different daemons at the same time.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-47fa44d elementor-widget elementor-widget-image" data-id="47fa44d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+													<a href="./../../../wp-content/uploads/2021/11/1__9Lx10TXg9WGXo-LOs4qFw.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="1__9Lx10TXg9WGXo-LOs4qFw">
+							<img width="750" height="118" src="./../../../wp-content/uploads/2021/11/1__9Lx10TXg9WGXo-LOs4qFw.jpg" class="attachment-large size-large" alt="" srcset="./../../../wp-content/uploads/2021/11/1__9Lx10TXg9WGXo-LOs4qFw.jpg 812w, ./../../../wp-content/uploads/2021/11/1__9Lx10TXg9WGXo-LOs4qFw-300x47-1.jpg 300w, ./../../../wp-content/uploads/2021/11/1__9Lx10TXg9WGXo-LOs4qFw-768x121-1.jpg 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:15.76%;max-width:812px" />								</a>
+														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-79ca123 elementor-widget elementor-widget-text-editor" data-id="79ca123" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Well, that does it for setting up a remote node on VPS. Now you can help strengthen the network and provide a remote node for not only yourself but other people including exchanges and other service providers. Good luck and see you next time!</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-203448c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="203448c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b12ee9" data-id="5b12ee9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3e5e828 elementor-widget elementor-widget-image" data-id="3e5e828" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="750" height="280" src="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png" class="attachment-medium_large size-medium_large" alt="" srcset="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png 768w, ./../../../wp-content/uploads/2018/11/logo-and-text-300x112.png 300w, ./../../../wp-content/uploads/2018/11/logo-and-text.png 1024w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:37.3%;max-width:1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4636904 elementor-widget elementor-widget-spacer" data-id="4636904" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ebc1112 elementor-widget elementor-widget-heading" data-id="ebc1112" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Helpful Arqma Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e2c42c9 elementor-widget elementor-widget-text-editor" data-id="e2c42c9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Arqma Official Website:&nbsp;<a href="./../../../index.html" target="_blank" rel="noopener">./../../../index.html</a></p>
+<p>Arqma CLI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma" target="_blank" rel="noopener">https://github.com/arqma/arqma</a></p>
+<p>Arqma GUI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma-electron-wallet" target="_blank" rel="noopener">https://github.com/arqma/arqma-electron-wallet</a></p>
+<p>Android Wallet:&nbsp;<a href="https://play.google.com/store/apps/details?id=com.arqma.Droid" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.arqma.Droid</a></p>
+<p>Arqma Community Pages:&nbsp;<a href="https://arqma.github.io/" target="_blank" rel="noopener">https://arqma.github.io/</a></p>
+<p>Official Block Explorer:&nbsp;<a href="https://explorer.arqma.com/" target="_blank" rel="noopener">https://explorer.arqma.com/</a></p>
+<p>Official Twitter:&nbsp;<a href="https://twitter.com/ArQmA_Network" target="_blank" rel="noopener">https://twitter.com/ArQmA_Network</a></p>
+<p>Community Twitter:&nbsp;<a href="https://twitter.com/CommunityArq" target="_blank" rel="noopener">https://twitter.com/CommunityArq</a></p>
+<p>Discord Link:&nbsp;<a href="https://discord.gg/s9BQpJT" target="_blank" rel="noopener">https://discord.gg/s9BQpJT</a></p>
+<p>Medium Link:&nbsp;<a href="https://medium.com/@ArQmANetwork" target="_blank" rel="noopener">https://medium.com/@ArQmANetwork</a></p>
+<p>Medium Community Link:&nbsp;<a href="https://medium.com/@arqmacommunity" target="_blank" rel="noopener">https://medium.com/@arqmacommunity</a></p>
+<p>Telegram Link:&nbsp;<a href="https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw" target="_blank" rel="noopener">https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw</a></p>
+<p>Reddit Link:&nbsp;<a href="https://www.reddit.com/r/arqma" target="_blank" rel="noopener">https://www.reddit.com/r/arqma</a></p>
+<p>YouTube Channel:&nbsp;<a href="https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA" target="_blank" rel="noopener">https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA</a></p>
+<p>Matrix Chat link: #ArQmA:matrix.org<br>Bitcointalk Thread:&nbsp;<a href="https://bitcointalk.org/index.php?topic=4474605.0" target="_blank" rel="noopener">https://bitcointalk.org/index.php?topic=4474605.0</a></p>
+<p>Current Mining Pool List:&nbsp;<a href="https://miningpoolstats.stream/arqma" target="_blank" rel="noopener">https://miningpoolstats.stream/arqma</a></p>
+<p>Woocommerce plugin:&nbsp;<a href="https://github.com/arqma/arqma-payments-woocommerce-gateway" target="_blank" rel="noopener">https://github.com/arqma/arqma-payments-woocommerce-gateway</a></p>
+<p>Offline Wallet Generator:&nbsp;<a href="https://generate.arqma.com/" target="_blank" rel="noopener">https://generate.arqma.com/</a></p>
+<p>Arqma Logos and Images:&nbsp;<a href="https://github.com/arqma/arqma-logo" target="_blank" rel="noopener">https://github.com/arqma/arqma-logo</a></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5a6478a elementor-widget elementor-widget-spacer" data-id="5a6478a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-875a227 elementor-widget elementor-widget-heading" data-id="875a227" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tips are always appreciated and not expected:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e47a827 elementor-widget elementor-widget-code-highlight" data-id="e47a827" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>aRS3ZP49AenNVa6hWJKf1y1Z8cwQJ3pbcYK8XmmYVpCdBWjEPyYW96Ye7cZwzoXP5Uawr7Y96DaEATDYQARJxS5K1M4zGQtQnM</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-192b74f elementor-widget elementor-widget-spacer" data-id="192b74f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-06b2fff elementor-widget elementor-widget-author-box" data-id="06b2fff" data-element_type="widget" data-widget_type="author-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-author-box">
+							<div  class="elementor-author-box__avatar">
+					<img src="./../../../wp-content/uploads/2019/06/rsz_11anonymous-300x300.png" alt="ArqmaCommunity">
+				</div>
+			
+			<div class="elementor-author-box__text">
+									<div >
+						<h4 class="elementor-author-box__name">
+							ArqmaCommunity						</h4>
+					</div>
+				
+									<div class="elementor-author-box__bio">
+						<p>author of this post</p>
+					</div>
+				
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

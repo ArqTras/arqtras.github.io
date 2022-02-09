@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>promotion | ArQmA</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Decentralized public blockchain open source project</description>
+	<lastBuildDate>Thu, 08 Aug 2019 16:15:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2018/08/arqma-logo-v1-150x150.png</url>
+	<title>promotion | ArQmA</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ArQmA In Privacy We Trust Video</title>
+		<link>./../../../arqma-in-privacy-we-trust-video/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 08 Aug 2019 16:15:33 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ARQ]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=7943</guid>
+
+					<description><![CDATA[[responsive_youtube sxVp4NL8G2k]]]></description>
+										<content:encoded><![CDATA[<p>[responsive_youtube sxVp4NL8G2k]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ArQmA Logo Video</title>
+		<link>./../../../arqma-logo-video/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 16:11:09 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ARQ]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=7938</guid>
+
+					<description><![CDATA[[responsive_youtube ZsElptJrFzE]]]></description>
+										<content:encoded><![CDATA[<p>[responsive_youtube ZsElptJrFzE]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ArQmA Intro Video</title>
+		<link>./../../../arqma-intro-video/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Feb 2019 16:04:02 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ARQ]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=7934</guid>
+
+					<description><![CDATA[[responsive_youtube ck6lqVyDlp0]]]></description>
+										<content:encoded><![CDATA[<p>[responsive_youtube ck6lqVyDlp0]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

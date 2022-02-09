@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>maintenance | ArQmA</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Decentralized public blockchain open source project</description>
+	<lastBuildDate>Sun, 08 Jul 2018 23:03:08 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2018/08/arqma-logo-v1-150x150.png</url>
+	<title>maintenance | ArQmA</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Maintenance Update</title>
+		<link>./../../../maintenance-update/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 08 Jul 2018 23:03:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[maintenance]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=6999</guid>
+
+					<description><![CDATA[Maintenance Update As many of you recently noticed, several exchanges have put Monero-forked coins under maintenance, and ArQmA was no exception. The reason for this is a bug was discovered that caused certain incoming transactions (with payment IDs) were doubled on the exchange side. Wallets across several coins and exchanges will remain under maintenance until&#8230; <a class="more-link" href="./../../../maintenance-update/index.html">Continue reading <span class="screen-reader-text">Maintenance Update</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="section-content">
+<div class="section-inner sectionLayout--insetColumn">
+<h1 id="7588" class="graf graf--h3 graf--leading graf--title" style="text-align: justify;">Maintenance Update</h1>
+<blockquote id="a0c2" class="graf graf--blockquote graf-after--h3"><p>As many of you recently noticed, several exchanges have put Monero-forked coins under maintenance, and ArQmA was no exception. The reason for this is a bug was discovered that caused certain incoming transactions (with payment IDs) were doubled on the exchange side.</p></blockquote>
+<blockquote id="509b" class="graf graf--blockquote graf-after--blockquote"><p>Wallets across several coins and exchanges will remain under maintenance until the bug fix has been applied and tested. Please contact each individual coin’s live chat for a status update, as each project will be on a different timeline.</p></blockquote>
+<blockquote id="d3c8" class="graf graf--blockquote graf-after--blockquote"><p>Thanks to the cooperation of our devs and Altex (<a class="markup--anchor markup--blockquote-anchor" href="https://altex.exchange/" target="_blank" rel="nofollow noopener noreferrer" data-href="https://altex.exchange/">altex.exchange</a>), a solution was discovered that could be quickly implemented to correct this bug before it could be exploited. It is not known at this time if this bug has been exploited to anyone’s advantage on any cryptonote-based coin. We do know that no ArQmA coins or wallets have been affected.</p></blockquote>
+<blockquote id="523a" class="graf graf--blockquote graf-after--blockquote"><p>Upon this discovery, the ArQmA Dev team discreetly contacted other exchanges, and shared this discovery across the cryptonote community to protect it as a whole.</p></blockquote>
+<blockquote id="d648" class="graf graf--blockquote graf-after--blockquote"><p>We are happy to give something back to the cryptonote community, and also showcase the skills of our Dev team to harden the blockchain to the highest security standards. We would like to thank Altex for their hard work in co-operating and implementing the fix as smoothly as possible.</p></blockquote>
+<blockquote id="d831" class="graf graf--blockquote graf-after--blockquote"><p>We thank you for your continuous support and are happy to have you among the ArQmA community.</p></blockquote>
+<p id="fd88" class="graf graf--p graf-after--blockquote graf--trailing" style="text-align: justify;">~ Michal (Lead ArQmA Dev)</p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

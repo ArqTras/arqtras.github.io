@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blockchain | ArQmA</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Decentralized public blockchain open source project</description>
+	<lastBuildDate>Thu, 02 Dec 2021 16:17:36 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2018/08/arqma-logo-v1-150x150.png</url>
+	<title>Blockchain | ArQmA</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ArQmA — A Truly Inclusive And Accessible Cryptocurrency</title>
+		<link>./../../../arqma-a-truly-inclusive-and-accessible-cryptocurrency/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 02 Dec 2021 16:10:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Monero]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=10325</guid>
+
+					<description><![CDATA[The traditional financial system which the world follows today has numerous challenges and issues as we know it. The emergence of blockchain and cryptocurrencies exposed us to these obstacles that come in the way of efficiency, financial freedom, and, most importantly, inclusivity and accessibility. “Nonce For our timestamp network, we implement the proof-of-work by incrementing&#8230; <a class="more-link" href="./../../../arqma-a-truly-inclusive-and-accessible-cryptocurrency/index.html">Continue reading <span class="screen-reader-text">ArQmA — A Truly Inclusive And Accessible Cryptocurrency</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10325" class="elementor elementor-10325" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-18bc600 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18bc600" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a1c141" data-id="3a1c141" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-922de16 elementor-widget elementor-widget-text-editor" data-id="922de16" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The traditional financial system which the world follows today has numerous challenges and issues as we know it. The emergence of blockchain and cryptocurrencies exposed us to these obstacles that come in the way of efficiency, financial freedom, and, most importantly, inclusivity and accessibility.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9c81d2f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="9c81d2f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="91" src="./../../../wp-content/uploads/2021/12/1_Z0uG9krxUD9uILG1Pv2mPQ.png" class="attachment-full size-full" alt="" style="width:100%;height:11.38%;max-width:800px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Nonce For our timestamp network, we implement the proof-of-work by incrementing a nonce in the block until a value is found that gives the block’s hash the required zero bits.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bff0658 elementor-widget elementor-widget-text-editor" data-id="bff0658" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>However, over the years, cryptocurrencies themselves have fallen prey to some of the challenges they set out to solve. Two of these are inclusivity and accessibility.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e4f9535 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="e4f9535" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="900" height="900" src="./../../../wp-content/uploads/2018/11/arqma-logo-gold.png" class="attachment-full size-full" alt="" style="width:100%;height:100%;max-width:900px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Achieving Consensus In the mint-based model, the mint was aware of all transactions and decided which arrived first. To accomplish this without a trusted party, transactions must be publicly announced [1], and we need a system for participants to agree on a single history of the order in which they were received.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a077e64 elementor-widget elementor-widget-text-editor" data-id="a077e64" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="acb6" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">Challenges Of The Existing Cryptocurrencies</p><p id="2171" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">In today’s era, it is kno<span id="rmm">w</span>n that cryptocurrencies are not inclusive of and accessible to everyone. So, yes, it is definitely better than traditional finance and economy, yet there’s still a long way to go.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8c1512d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8c1512d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="2400" height="896" src="./../../../wp-content/uploads/2021/12/1_wUc4LwvpTRKvaC9ioimxQQ.png" class="attachment-full size-full" alt="" style="width:100%;height:37.33%;max-width:2400px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Transactions that are computationally impractical to reverse would protect sellers from fraud, and routine escrow mechanisms could easily be implemented to protect buyers.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eae3d94 elementor-widget elementor-widget-text-editor" data-id="eae3d94" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="d09d" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">This is one of the fundamental principles of the cryptocurrency ArQmA aka Anonymous Real Quality Mastery of Algorithms.</p><p id="d09d" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="c91c" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">For the uninitiated, ArQmA is a currency coin built over the Monero platform that envisions becoming a worldwide currency that replaces fiat currency and some of the most significant cryptocurrencies.</p><p id="c975" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">So, how exactly is ArQmA more inclusive.</p><p id="c975" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="494e" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">When it comes to currencies such as Bitcoin, the consensus mechanism used is driven by CPU power, which in turn is driven by the capacity of an individual to afford it. So in essence, anyone with the money for it can become a Bitcoin miner, and that has some obvious problems:</p><p id="494e" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="71b4" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">Mining will be restricted to a select few wealthy and elite crypto enthusiasts. This means implicitly, these select few have all the power of verifying and validating transactions. If you see where I’m going with this, it’s simple. Unfortunately, the scenario becomes synonymous with the traditional system, where a few select people form the authorities and control everything. Thus, as mentioned before, the philosophy behind cryptocurrencies is completely nullified due to this.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-141c0c5 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="141c0c5" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="310" height="162" src="./../../../wp-content/uploads/2021/12/arqma-randomx.jpeg" class="attachment-full size-full" alt="" style="width:100%;height:52.26%;max-width:310px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“The system is secure as long as honest nodes collectively control more CPU power than any cooperating group of attacker nodes.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eb11646 elementor-widget elementor-widget-text-editor" data-id="eb11646" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="8202" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">How Does ArQmA Solve This?</p><p id="8202" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="9359" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">ArQmA saw this challenge as an opportunity to create a difference and take the first step to disrupt the status quo.</p><p id="9359" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="c98c" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">The cryptocurrency leverages a lightweight protocol for its consensus mechanism known as Cryptonight-Pico, aka RandomX-ARQ. This protocol is a soft protest against ASICs since it enables any device or hardware to mine for the cryptocurrency. Be it a phone, a Raspberry Pi, or other pieces of equipment that people use daily; they can all mine the ARQ coins.</p><p id="c98c" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="5a2a" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">Furthermore, this Proof Of Work algorithm works so that it is not a competition between various miners. Instead, it gives everyone a fair shot at mining for the coins and thus enabling everyone to benefit and earn from the crypto asset.</p><p id="5a2a" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="6e6d" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">With these measures, the ArQmA solves the challenges of inclusivity and accessibility. Moreover, this solves an additional problem that the cryptocurrency world is currently infamous for — Electricity consumption and environmental damage.</p><p id="6e6d" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="0ebe" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">The highly sophisticated ASICs and GPUs consume enormous sums of power. In fact, in Kazakhstan, which is currently the second most popular Bitcoin mining nation, the mining operations consume 8% of the country’s electricity.</p><p id="0ebe" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph=""> </p><p id="6a71" class="ho hp fy hq b hr iz hs ht hu ja hv hw hx jb hy hz ia jc ib ic id jd ie if ih dn gv" data-selectable-paragraph="">ArQmA is a relatively new cryptocurrency that was launched in 2018. Although it is currently in an ecosystem in which Bitcoin rules, it is much closer to blockchain’s core philosophy by making cryptocurrency mining inclusive and accessible to everyone.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a880e34 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a880e34" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1100" height="1100" src="./../../../wp-content/uploads/2021/12/arqma-blue.jpg" class="attachment-full size-full" alt="" style="width:100%;height:100%;max-width:1100px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“One CPU, one vote The proof-of-work also solves the problem of determining representation in majority decision making. If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ca8153d elementor-widget elementor-widget-text-editor" data-id="ca8153d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="f3c7" data-selectable-paragraph=""><strong>ArQmA Specifications</strong>:</p>
+<p id="205a" data-selectable-paragraph="">ArQmA is a completely new and unique CryptoNote-Lite blockchain!</p>
+<ul>
+<li id="d6cb">PoW algrithm: RandomX; RandomARQ</li>
+<li id="4bf8">Max supply: ~50 million</li>
+<li id="40fa">Block reward: ~20 smoothly varying</li>
+<li id="1467">Block time: 120 seconds</li>
+<li id="0c0d">Difficulty: retargets at every block</li>
+<li id="fa6c">Block confirmation: 18 blocks</li>
+<li id="fc28">Properly set 1MB Scratchpad to eliminate time-waste hashing by trying to divide into a 2MB Scratchpad like other projects had done</li>
+<li id="530e">Asic resistance : Yes</li>
+<li id="d14d">Nicehash resistance: Yes</li>
+<li id="3f97">BulletProof RingCT</li>
+<li id="153a">LWMA Difficulty Algorithm securing network against 51% HashAttacks</li>
+<li id="286d">Ticker: ARQ</li>
+<li id="89f3">Emission rate planned on 30 years</li>
+</ul><div><br></div>
+<p id="207d" data-selectable-paragraph="">To join TEAM ARQMA please follow the links provided below. We look forward to welcoming you to our friendly wide ranging community of blockchain crypto coin CryptoMining Staking ARQNodes enthusiasts!</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-1729956 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1729956" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6ba00e2" data-id="6ba00e2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-01b710f elementor-widget elementor-widget-image" data-id="01b710f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="750" height="280" src="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png" class="attachment-medium_large size-medium_large" alt="" srcset="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png 768w, ./../../../wp-content/uploads/2018/11/logo-and-text-300x112.png 300w, ./../../../wp-content/uploads/2018/11/logo-and-text.png 1024w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:37.3%;max-width:1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-adb3838 elementor-widget elementor-widget-spacer" data-id="adb3838" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-66d13f9 elementor-widget elementor-widget-heading" data-id="66d13f9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Helpful Arqma Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e0dbc05 elementor-widget elementor-widget-text-editor" data-id="e0dbc05" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Arqma Official Website:&nbsp;<a href="./../../../index.html" target="_blank" rel="noopener">./../../../index.html</a></p>
+<p>Arqma CLI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma" target="_blank" rel="noopener">https://github.com/arqma/arqma</a></p>
+<p>Arqma GUI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma-electron-wallet" target="_blank" rel="noopener">https://github.com/arqma/arqma-electron-wallet</a></p>
+<p>Android Wallet:&nbsp;<a href="https://play.google.com/store/apps/details?id=com.arqma.Droid" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.arqma.Droid</a></p>
+<p>Arqma Community Pages:&nbsp;<a href="https://arqma.github.io/" target="_blank" rel="noopener">https://arqma.github.io/</a></p>
+<p>Official Block Explorer:&nbsp;<a href="https://explorer.arqma.com/" target="_blank" rel="noopener">https://explorer.arqma.com/</a></p>
+<p>Official Twitter:&nbsp;<a href="https://twitter.com/ArQmA_Network" target="_blank" rel="noopener">https://twitter.com/ArQmA_Network</a></p>
+<p>Community Twitter:&nbsp;<a href="https://twitter.com/CommunityArq" target="_blank" rel="noopener">https://twitter.com/CommunityArq</a></p>
+<p>Discord Link:&nbsp;<a href="https://discord.gg/s9BQpJT" target="_blank" rel="noopener">https://discord.gg/s9BQpJT</a></p>
+<p>Medium Link:&nbsp;<a href="https://medium.com/@ArQmANetwork" target="_blank" rel="noopener">https://medium.com/@ArQmANetwork</a></p>
+<p>Medium Community Link:&nbsp;<a href="https://medium.com/@arqmacommunity" target="_blank" rel="noopener">https://medium.com/@arqmacommunity</a></p>
+<p>Telegram Link:&nbsp;<a href="https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw" target="_blank" rel="noopener">https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw</a></p>
+<p>Reddit Link:&nbsp;<a href="https://www.reddit.com/r/arqma" target="_blank" rel="noopener">https://www.reddit.com/r/arqma</a></p>
+<p>YouTube Channel:&nbsp;<a href="https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA" target="_blank" rel="noopener">https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA</a></p>
+<p>Matrix Chat link: #ArQmA:matrix.org<br>Bitcointalk Thread:&nbsp;<a href="https://bitcointalk.org/index.php?topic=4474605.0" target="_blank" rel="noopener">https://bitcointalk.org/index.php?topic=4474605.0</a></p>
+<p>Current Mining Pool List:&nbsp;<a href="https://miningpoolstats.stream/arqma" target="_blank" rel="noopener">https://miningpoolstats.stream/arqma</a></p>
+<p>Woocommerce plugin:&nbsp;<a href="https://github.com/arqma/arqma-payments-woocommerce-gateway" target="_blank" rel="noopener">https://github.com/arqma/arqma-payments-woocommerce-gateway</a></p>
+<p>Offline Wallet Generator:&nbsp;<a href="https://generate.arqma.com/" target="_blank" rel="noopener">https://generate.arqma.com/</a></p>
+<p>Arqma Logos and Images:&nbsp;<a href="https://github.com/arqma/arqma-logo" target="_blank" rel="noopener">https://github.com/arqma/arqma-logo</a></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9ce0d83 elementor-widget elementor-widget-spacer" data-id="9ce0d83" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-454a567 elementor-widget elementor-widget-heading" data-id="454a567" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tips are always appreciated and not expected:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-edf4dc6 elementor-widget elementor-widget-code-highlight" data-id="edf4dc6" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>aRS3ZP49AenNVa6hWJKf1y1Z8cwQJ3pbcYK8XmmYVpCdBWjEPyYW96Ye7cZwzoXP5Uawr7Y96DaEATDYQARJxS5K1M4zGQtQnM</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f82294a elementor-widget elementor-widget-spacer" data-id="f82294a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-de55e39 elementor-widget elementor-widget-author-box" data-id="de55e39" data-element_type="widget" data-widget_type="author-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-author-box">
+							<div  class="elementor-author-box__avatar">
+					<img src="./../../../wp-content/uploads/2019/06/rsz_11anonymous-300x300.png" alt="ArqmaCommunity">
+				</div>
+			
+			<div class="elementor-author-box__text">
+									<div >
+						<h4 class="elementor-author-box__name">
+							ArqmaCommunity						</h4>
+					</div>
+				
+									<div class="elementor-author-box__bio">
+						<p>author of this post</p>
+					</div>
+				
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How ArQmA Elevated Monero’s Code</title>
+		<link>./../../../how-arqma-elevated-moneros-code/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 01 Dec 2021 12:08:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ARQ]]></category>
+		<category><![CDATA[arqma]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Monero]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=10282</guid>
+
+					<description><![CDATA[&#8230; and Solved Its Challenges “The network is robust in its unstructured simplicity. Nodes work all at once with little coordination. They do not need to be identified, since messages are not routed to any particular place and only need to be delivered on a best effort basis.” — Satoshi Nakamoto, Bitcoin Whitepaper ArQmA, aka&#8230; <a class="more-link" href="./../../../how-arqma-elevated-moneros-code/index.html">Continue reading <span class="screen-reader-text">How ArQmA Elevated Monero’s Code</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10282" class="elementor elementor-10282" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-23640e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="23640e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-02c53a8" data-id="02c53a8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-13c7946 elementor-widget elementor-widget-text-editor" data-id="13c7946" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>&#8230; and Solved Its Challenges</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c7840b5 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c7840b5" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="900" height="900" src="./../../../wp-content/uploads/2018/11/arqma-logo-gold.png" class="attachment-full size-full" alt="" style="width:100%;height:100%;max-width:900px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“The network is robust in its unstructured simplicity. Nodes work all at once with little coordination. They do not need to be identified, since messages are not routed to any particular place and only need to be delivered on a best effort basis.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ad38ac elementor-widget elementor-widget-text-editor" data-id="2ad38ac" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="4059" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">ArQmA, aka Anonymous Real Mastery of Algorithms, is an open-source cryptocurrency project launched in 2018 and is primarily based on Monero’s source code. The project launched its own ARQ coin, which is a currency coin that aims and is strategically aligned to become a globally used crypto asset for payments of products and services.</p><p id="4059" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="8aeb" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">At first, ARQMA seemed similar to numerous other cryptocurrencies projects out there. However, while I was reading more about ArQmA, I encountered something that showcased how the project sets itself apart from its competitors by understanding the blockchain differently.</p><p id="8aeb" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="fda0" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">It <span id="rmm">w</span>as interesting to note that while many emerging cryptocurrencies use source codes of other projects, ArQmA had its own screening and testing process aimed at improving the source code.</p><p id="fda0" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="04c8" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">This enabled the team behind this relatively new crypto asset to find some serious loopholes and issues with Monero’s code that caused the project numerous problems.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b7af011 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b7af011" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="2048" height="1536" src="./../../../wp-content/uploads/2021/11/1_NXCL-C5bJtiQgyVtsJm8VQ.jpeg" class="attachment-full size-full" alt="" style="width:100%;height:75%;max-width:2048px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Nodes can leave and rejoin the network at will, accepting the proof-of-work chain as proof of what happened while they were gone.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b617f48 elementor-widget elementor-widget-text-editor" data-id="b617f48" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="5b9f" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">The Challenge Of Monero’s Source Code</p><p id="5b9f" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="5d14" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">In 2018, the same year in which ArQmA was launched, Monero encountered an issue known as the double deposit bug, a variant of the double-spend bug.</p><p id="5d14" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="3650" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">In a double-spend bug, the hackers can make it look like the same currency has been spent twice. On the other hand, in a double-deposit bug, the hackers can repeatedly deposit the same cryptocurrencies in an account.</p><p id="3650" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="2cc1" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">This major flaw can result in enormous damage to exchanges because real funds can be easily stolen if a determined hacker decides to exploit this flaw with a strategically planned attack.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-233a173 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="233a173" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="91" src="./../../../wp-content/uploads/2021/12/1_Z0uG9krxUD9uILG1Pv2mPQ.png" class="attachment-full size-full" alt="" style="width:100%;height:11.38%;max-width:800px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“The incentive can also be funded with transaction fees. If the output value of a transaction is less than its input value, the difference is a transaction fee that is added to the incentive value of the block containing the transaction.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4bd85f8 elementor-widget elementor-widget-text-editor" data-id="4bd85f8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="77df" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">How ArQmA Solves It?</p><p id="77df" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="b17f" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">ArQmA’s policy of testing the code wherever necessary on a stagenet or testnet resulted in them identifying this critical issue with Monero’s source code and thus helped them solve it.</p><p id="b17f" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="27b9" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">By leveraging the ethical disclosure policy, ArQmA escalated this issue to the developers of Monero, and due to this, numerous exchanges were saved from potential damages within a few days.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a47051a elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a47051a" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1200" height="675" src="./../../../wp-content/uploads/2021/12/1_kPBfNAVWuZt8tLefaCLCIg.jpeg" class="attachment-full size-full" alt="" style="width:100%;height:56.25%;max-width:1200px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Once a predetermined number of coins have entered circulation, the incentive can transition entirely to transaction fees and be completely inflation free.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-09bebe7 elementor-widget elementor-widget-text-editor" data-id="09bebe7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="392e" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">ArQmA’s team includes diverse cryptography-savvy developers who understand the intricacies of blockchain coding, and their due diligence helped solve an issue that not only Monero faced but also an issue that emerging crypto projects might face.</p><p id="0627" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">This is merely one case study that depicts how Monero is actually delving deep into the blockchain aspects and succeeding at solving challenges that numerous cryptocurrency projects face.</p><p id="97fb" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">This way, ARQMA’s vision of becoming one of the most significant currencies worldwide seems like a realistic goal. In fact, it can only be fulfilled if the cryptocurrency continues to evolve and set itself apart from blockchain competitors by merely giving users a better quality product written by default into the code.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d105f1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5d105f1" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="372" height="622" src="./../../../wp-content/uploads/2021/12/1_YXqjwJ7asyQeuUn3RLrtjA.jpeg" class="attachment-full size-full" alt="" style="width:100%;height:167.2%;max-width:372px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“If a greedy attacker is able to assemble more CPU power than all the honest nodes, he would have to choose between using it to defraud people by stealing back his payments or using it to generate new coins. He ought to find it more profitable to play by the rules, such rules that favor him with more new coins than everyone else combined, than to undermine the system and the validity of his own wealth.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ed4be1 elementor-widget elementor-widget-text-editor" data-id="2ed4be1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="f3c7" data-selectable-paragraph=""><strong>ArQmA Specifications</strong>:</p>
+<p id="205a" data-selectable-paragraph="">ArQmA is a completely new and unique CryptoNote-Lite blockchain!</p>
+<ul>
+<li id="d6cb">PoW algrithm: RandomX; RandomARQ</li>
+<li id="4bf8">Max supply: ~50 million</li>
+<li id="40fa">Block reward: ~20 smoothly varying</li>
+<li id="1467">Block time: 120 seconds</li>
+<li id="0c0d">Difficulty: retargets at every block</li>
+<li id="fa6c">Block confirmation: 18 blocks</li>
+<li id="fc28">Properly set 1MB Scratchpad to eliminate time-waste hashing by trying to divide into a 2MB Scratchpad like other projects had done</li>
+<li id="530e">Asic resistance : Yes</li>
+<li id="d14d">Nicehash resistance: Yes</li>
+<li id="3f97">BulletProof RingCT</li>
+<li id="153a">LWMA Difficulty Algorithm securing network against 51% HashAttacks</li>
+<li id="286d">Ticker: ARQ</li>
+<li id="89f3">Emission rate planned on 30 years</li>
+</ul><div><br></div>
+<p id="207d" data-selectable-paragraph="">To join TEAM ARQMA please follow the links provided below. We look forward to welcoming you to our friendly wide ranging community of blockchain crypto coin CryptoMining Staking ARQNodes enthusiasts!</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-a6e90bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a6e90bd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1eb81d4" data-id="1eb81d4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-62d5b1b elementor-widget elementor-widget-image" data-id="62d5b1b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="750" height="280" src="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png" class="attachment-medium_large size-medium_large" alt="" srcset="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png 768w, ./../../../wp-content/uploads/2018/11/logo-and-text-300x112.png 300w, ./../../../wp-content/uploads/2018/11/logo-and-text.png 1024w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:37.3%;max-width:1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ae6fe1a elementor-widget elementor-widget-spacer" data-id="ae6fe1a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2f331bc elementor-widget elementor-widget-heading" data-id="2f331bc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Helpful Arqma Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e126b6c elementor-widget elementor-widget-text-editor" data-id="e126b6c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Arqma Official Website:&nbsp;<a href="./../../../index.html" target="_blank" rel="noopener">./../../../index.html</a></p>
+<p>Arqma CLI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma" target="_blank" rel="noopener">https://github.com/arqma/arqma</a></p>
+<p>Arqma GUI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma-electron-wallet" target="_blank" rel="noopener">https://github.com/arqma/arqma-electron-wallet</a></p>
+<p>Android Wallet:&nbsp;<a href="https://play.google.com/store/apps/details?id=com.arqma.Droid" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.arqma.Droid</a></p>
+<p>Arqma Community Pages:&nbsp;<a href="https://arqma.github.io/" target="_blank" rel="noopener">https://arqma.github.io/</a></p>
+<p>Official Block Explorer:&nbsp;<a href="https://explorer.arqma.com/" target="_blank" rel="noopener">https://explorer.arqma.com/</a></p>
+<p>Official Twitter:&nbsp;<a href="https://twitter.com/ArQmA_Network" target="_blank" rel="noopener">https://twitter.com/ArQmA_Network</a></p>
+<p>Community Twitter:&nbsp;<a href="https://twitter.com/CommunityArq" target="_blank" rel="noopener">https://twitter.com/CommunityArq</a></p>
+<p>Discord Link:&nbsp;<a href="https://discord.gg/s9BQpJT" target="_blank" rel="noopener">https://discord.gg/s9BQpJT</a></p>
+<p>Medium Link:&nbsp;<a href="https://medium.com/@ArQmANetwork" target="_blank" rel="noopener">https://medium.com/@ArQmANetwork</a></p>
+<p>Medium Community Link:&nbsp;<a href="https://medium.com/@arqmacommunity" target="_blank" rel="noopener">https://medium.com/@arqmacommunity</a></p>
+<p>Telegram Link:&nbsp;<a href="https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw" target="_blank" rel="noopener">https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw</a></p>
+<p>Reddit Link:&nbsp;<a href="https://www.reddit.com/r/arqma" target="_blank" rel="noopener">https://www.reddit.com/r/arqma</a></p>
+<p>YouTube Channel:&nbsp;<a href="https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA" target="_blank" rel="noopener">https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA</a></p>
+<p>Matrix Chat link: #ArQmA:matrix.org<br>Bitcointalk Thread:&nbsp;<a href="https://bitcointalk.org/index.php?topic=4474605.0" target="_blank" rel="noopener">https://bitcointalk.org/index.php?topic=4474605.0</a></p>
+<p>Current Mining Pool List:&nbsp;<a href="https://miningpoolstats.stream/arqma" target="_blank" rel="noopener">https://miningpoolstats.stream/arqma</a></p>
+<p>Woocommerce plugin:&nbsp;<a href="https://github.com/arqma/arqma-payments-woocommerce-gateway" target="_blank" rel="noopener">https://github.com/arqma/arqma-payments-woocommerce-gateway</a></p>
+<p>Offline Wallet Generator:&nbsp;<a href="https://generate.arqma.com/" target="_blank" rel="noopener">https://generate.arqma.com/</a></p>
+<p>Arqma Logos and Images:&nbsp;<a href="https://github.com/arqma/arqma-logo" target="_blank" rel="noopener">https://github.com/arqma/arqma-logo</a></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c297301 elementor-widget elementor-widget-spacer" data-id="c297301" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9c070b7 elementor-widget elementor-widget-heading" data-id="9c070b7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tips are always appreciated and not expected:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f0e8d15 elementor-widget elementor-widget-code-highlight" data-id="f0e8d15" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>aRS3ZP49AenNVa6hWJKf1y1Z8cwQJ3pbcYK8XmmYVpCdBWjEPyYW96Ye7cZwzoXP5Uawr7Y96DaEATDYQARJxS5K1M4zGQtQnM</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-caaef54 elementor-widget elementor-widget-spacer" data-id="caaef54" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ee5cfba elementor-widget elementor-widget-author-box" data-id="ee5cfba" data-element_type="widget" data-widget_type="author-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-author-box">
+							<div  class="elementor-author-box__avatar">
+					<img src="./../../../wp-content/uploads/2019/06/rsz_11anonymous-300x300.png" alt="ArqmaCommunity">
+				</div>
+			
+			<div class="elementor-author-box__text">
+									<div >
+						<h4 class="elementor-author-box__name">
+							ArqmaCommunity						</h4>
+					</div>
+				
+									<div class="elementor-author-box__bio">
+						<p>author of this post</p>
+					</div>
+				
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ArQmA Accomplishes More Transactions Per Second Than Bitcoin</title>
+		<link>./../../../arqma-accomplishes-more-transactions-per-second-than-bitcoin/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 30 Nov 2021 15:43:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=10306</guid>
+
+					<description><![CDATA[In 2020, with the pandemic onset, the global economy froze, which paved the way for the cryptocurrency boom. Hundreds of cryptocurrencies saw a steep rise in performance, and newer cryptocurrencies started emerging.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10306" class="elementor elementor-10306" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-8f01eb1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f01eb1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-998585c" data-id="998585c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d7a6fac elementor-widget elementor-widget-text-editor" data-id="d7a6fac" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><em>“What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party.” — Satoshi Nakamoto, Bitcoin Whitepaper</em></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d38ade5 elementor-widget elementor-widget-text-editor" data-id="d38ade5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="a8b5" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">However, with this explosion in the user base, the teams behind the cryptocurrency projects also realized that they could support this sudden surge in the number of users and the innumerable transactions due to bandwidth limitations.</p><p id="a8b5" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="8fdd" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">Even the biggest cryptocurrencie<span id="rmm">s</span> such as Bitcoin and Ethereum faced issues related to this. It manifested in numerous ways, such as network congestion, increased transaction fee, and perhaps the most inconvenient of all delayed transactions.</p><p id="8fdd" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="25f3" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">Of course, over the last year and a half, platforms such as Ethereum have found ways to work on this challenge. However, the project ArQmA had this figured during their initial launch itself back in 2018.</p><p id="7811" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">But before we jump into that, for those of you who do not know about this cryptocurrency project, ArQmA is a currency coin that is a user-friendly, community-driven, open-source project. People can use its ARQ coin as a payment method for products and services.</p><p id="7811" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph=""> </p><p id="aecf" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">So how did a project that only launched in 2018 managed to have more transactions per second than the world’s biggest cryptocurrency — Bitcoin.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c4c9c34 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c4c9c34" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1980" height="1409" src="./../../../wp-content/uploads/2021/11/1_dCOWqn6HS6dzD2ix1gh_mw.png" class="attachment-full size-full" alt="" style="width:100%;height:71.16%;max-width:1980px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-db947c2 elementor-widget elementor-widget-text-editor" data-id="db947c2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="2354" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">The Self-Adjusting Block Formula.</p><p id="06f9" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">Every block has a size, and for different cryptocurrencies, the maximum size of 1 block is different. Each of these blocks takes a certain amount of time to be created. In Bitcoin’s case, the maximum size is 1 MB, and to create this block, it would take any miner a minimum of 10 minutes.</p><p id="f2ce" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">Due to this, it becomes difficult to process all of them fast when there are more people because it takes more time. Another factor to note is that not all transactions will require the complete 1 MB for their details. It varies based on numerous factors, such as how many cryptocurrencies you send. If you are sending one large amount that is received as smaller amounts to one address, it will take longer to complete the transaction. There are numerous other factors.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b5ea868 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b5ea868" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="91" src="./../../../wp-content/uploads/2021/12/1_Z0uG9krxUD9uILG1Pv2mPQ.png" class="attachment-full size-full" alt="" style="width:100%;height:11.38%;max-width:800px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d66aed0 elementor-widget elementor-widget-text-editor" data-id="d66aed0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div class="n p"><div class="aq ar as at au fu aw w"><p id="76d6" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">To solve this, the ArQmA protocol monitors its previous 100 blocks on the blockchain similar to block size auto scaling. Auto scaling is common in cloud computing to prevent resource constraints, and to ensure optimal uptime and speed.</p><p id="2c16" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">With this, it calculates the average size of the block. Based on this average size, the protocol is such that it automatically reduces or increases the size of every block based on the frequency of transactions and the nature of those transactions.</p><p id="58a2" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">Due to this, the miners will get a chance to either create fewer or more blocks within a given size based on the previous 100 transactions. As a result, the transaction speed is always on an optimum level no matter how the traffic on the network is.</p></div></div><div class="im"><div class="n p"><div class="jq jr js jt ju jv at jw au jx aw w"> </div></div></div>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3834369 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3834369" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="568" height="354" src="./../../../wp-content/uploads/2021/11/1_0ziIhz8zXDvLelaCfDRzeQ.jpg" class="attachment-full size-full" alt="" style="width:100%;height:62.32%;max-width:568px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Transactions that are computationally impractical to reverse would protect sellers from fraud, and routine escrow mechanisms could easily be implemented to protect buyers.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9d10039 elementor-widget elementor-widget-text-editor" data-id="9d10039" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<div class="n p"><div class="aq ar as at au fu aw w"><p id="f787" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">Thus in ArQmA’s case, the network can create 2 to 65000 (approximately) blocks in 4 minutes, which is much more efficient than that of Bitcoin.</p><p id="829e" class="hm hn fw ho b hp ix hq hr hs iy ht hu hv iz hw hx hy ja hz ia ib jb ic id if dn gt" data-selectable-paragraph="">This is merely one simple reason why the ArQmA project is user-friendly. It shows how the team behind is proactive when it comes to assessing potential problems and solving them before it becomes an inconvenience for the users.</p></div></div>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-484379d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="484379d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="91" src="./../../../wp-content/uploads/2021/12/1_Z0uG9krxUD9uILG1Pv2mPQ.png" class="attachment-full size-full" alt="" style="width:100%;height:11.38%;max-width:800px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">“Each timestamp includes the previous timestamp in its hash, forming a chain, with each additional timestamp reinforcing the ones before it.” — Satoshi Nakamoto, Bitcoin Whitepaper</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5605a06 elementor-widget elementor-widget-text-editor" data-id="5605a06" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p id="f3c7" data-selectable-paragraph=""><strong>ArQmA Specifications</strong>:</p>
+<p id="205a" data-selectable-paragraph="">ArQmA is a completely new and unique CryptoNote-Lite blockchain!</p>
+<ul>
+<li id="d6cb">PoW algrithm: RandomX; RandomARQ</li>
+<li id="4bf8">Max supply: ~50 million</li>
+<li id="40fa">Block reward: ~20 smoothly varying</li>
+<li id="1467">Block time: 120 seconds</li>
+<li id="0c0d">Difficulty: retargets at every block</li>
+<li id="fa6c">Block confirmation: 18 blocks</li>
+<li id="fc28">Properly set 1MB Scratchpad to eliminate time-waste hashing by trying to divide into a 2MB Scratchpad like other projects had done</li>
+<li id="530e">Asic resistance : Yes</li>
+<li id="d14d">Nicehash resistance: Yes</li>
+<li id="3f97">BulletProof RingCT</li>
+<li id="153a">LWMA Difficulty Algorithm securing network against 51% HashAttacks</li>
+<li id="286d">Ticker: ARQ</li>
+<li id="89f3">Emission rate planned on 30 years</li>
+</ul><div><br></div>
+<p id="207d" data-selectable-paragraph="">To join TEAM ARQMA please follow the links provided below. We look forward to welcoming you to our friendly wide ranging community of blockchain crypto coin CryptoMining Staking ARQNodes enthusiasts!</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-77f3239 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77f3239" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a5931a7" data-id="a5931a7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a39466e elementor-widget elementor-widget-image" data-id="a39466e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="750" height="280" src="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png" class="attachment-medium_large size-medium_large" alt="" srcset="./../../../wp-content/uploads/2018/11/logo-and-text-768x287.png 768w, ./../../../wp-content/uploads/2018/11/logo-and-text-300x112.png 300w, ./../../../wp-content/uploads/2018/11/logo-and-text.png 1024w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:37.3%;max-width:1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0c35021 elementor-widget elementor-widget-spacer" data-id="0c35021" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-41f551d elementor-widget elementor-widget-heading" data-id="41f551d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Helpful Arqma Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-71bbce7 elementor-widget elementor-widget-text-editor" data-id="71bbce7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Arqma Official Website:&nbsp;<a href="./../../../index.html" target="_blank" rel="noopener">./../../../index.html</a></p>
+<p>Arqma CLI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma" target="_blank" rel="noopener">https://github.com/arqma/arqma</a></p>
+<p>Arqma GUI wallet Github:&nbsp;<a href="https://github.com/arqma/arqma-electron-wallet" target="_blank" rel="noopener">https://github.com/arqma/arqma-electron-wallet</a></p>
+<p>Android Wallet:&nbsp;<a href="https://play.google.com/store/apps/details?id=com.arqma.Droid" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.arqma.Droid</a></p>
+<p>Arqma Community Pages:&nbsp;<a href="https://arqma.github.io/" target="_blank" rel="noopener">https://arqma.github.io/</a></p>
+<p>Official Block Explorer:&nbsp;<a href="https://explorer.arqma.com/" target="_blank" rel="noopener">https://explorer.arqma.com/</a></p>
+<p>Official Twitter:&nbsp;<a href="https://twitter.com/ArQmA_Network" target="_blank" rel="noopener">https://twitter.com/ArQmA_Network</a></p>
+<p>Community Twitter:&nbsp;<a href="https://twitter.com/CommunityArq" target="_blank" rel="noopener">https://twitter.com/CommunityArq</a></p>
+<p>Discord Link:&nbsp;<a href="https://discord.gg/s9BQpJT" target="_blank" rel="noopener">https://discord.gg/s9BQpJT</a></p>
+<p>Medium Link:&nbsp;<a href="https://medium.com/@ArQmANetwork" target="_blank" rel="noopener">https://medium.com/@ArQmANetwork</a></p>
+<p>Medium Community Link:&nbsp;<a href="https://medium.com/@arqmacommunity" target="_blank" rel="noopener">https://medium.com/@arqmacommunity</a></p>
+<p>Telegram Link:&nbsp;<a href="https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw" target="_blank" rel="noopener">https://t.me/joinchat/HNpOMRIiNSoCn0zYrAOofw</a></p>
+<p>Reddit Link:&nbsp;<a href="https://www.reddit.com/r/arqma" target="_blank" rel="noopener">https://www.reddit.com/r/arqma</a></p>
+<p>YouTube Channel:&nbsp;<a href="https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA" target="_blank" rel="noopener">https://www.youtube.com/channel/UC24ZbH8J1SKpxmdakIJotoA</a></p>
+<p>Matrix Chat link: #ArQmA:matrix.org<br>Bitcointalk Thread:&nbsp;<a href="https://bitcointalk.org/index.php?topic=4474605.0" target="_blank" rel="noopener">https://bitcointalk.org/index.php?topic=4474605.0</a></p>
+<p>Current Mining Pool List:&nbsp;<a href="https://miningpoolstats.stream/arqma" target="_blank" rel="noopener">https://miningpoolstats.stream/arqma</a></p>
+<p>Woocommerce plugin:&nbsp;<a href="https://github.com/arqma/arqma-payments-woocommerce-gateway" target="_blank" rel="noopener">https://github.com/arqma/arqma-payments-woocommerce-gateway</a></p>
+<p>Offline Wallet Generator:&nbsp;<a href="https://generate.arqma.com/" target="_blank" rel="noopener">https://generate.arqma.com/</a></p>
+<p>Arqma Logos and Images:&nbsp;<a href="https://github.com/arqma/arqma-logo" target="_blank" rel="noopener">https://github.com/arqma/arqma-logo</a></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2a4f403 elementor-widget elementor-widget-spacer" data-id="2a4f403" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-75f7d85 elementor-widget elementor-widget-heading" data-id="75f7d85" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tips are always appreciated and not expected:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0f229aa elementor-widget elementor-widget-code-highlight" data-id="0f229aa" data-element_type="widget" data-widget_type="code-highlight.default">
+				<div class="elementor-widget-container">
+					<div class="prismjs-tomorrow copy-to-clipboard ">
+			<pre data-line="" class="highlight-height language-markup ">
+				<code readonly="true" class="language-markup">
+					<xmp>aRS3ZP49AenNVa6hWJKf1y1Z8cwQJ3pbcYK8XmmYVpCdBWjEPyYW96Ye7cZwzoXP5Uawr7Y96DaEATDYQARJxS5K1M4zGQtQnM</xmp>
+				</code>
+			</pre>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e64f5f3 elementor-widget elementor-widget-spacer" data-id="e64f5f3" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-aa80d28 elementor-widget elementor-widget-author-box" data-id="aa80d28" data-element_type="widget" data-widget_type="author-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-author-box">
+							<div  class="elementor-author-box__avatar">
+					<img src="./../../../wp-content/uploads/2019/06/rsz_11anonymous-300x300.png" alt="ArqmaCommunity">
+				</div>
+			
+			<div class="elementor-author-box__text">
+									<div >
+						<h4 class="elementor-author-box__name">
+							ArqmaCommunity						</h4>
+					</div>
+				
+									<div class="elementor-author-box__bio">
+						<p>author of this post</p>
+					</div>
+				
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

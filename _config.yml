@@ -1,9 +1,0 @@
-theme: jekyll-theme-minimal
-title: ArQmA Community Pages
-description: Various and sundry information related to the ArQmA digital currency
-logo: /assets/img/arqma.png
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
