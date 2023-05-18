@@ -11,8 +11,8 @@ import { MaterialModule } from './material.module';
 import { ResponsiveToolbarComponent } from './responsive-toolbar/responsive-toolbar.component';
 import { HomeComponent } from './home/home.component';
 import { DownloadsComponent } from './downloads/downloads.component';
-import { PresskitComponent } from './presskit/presskit.component';
-import { StatsComponent } from './stats/stats.component';
+//import { PresskitComponent } from './presskit/presskit.component';
+//import { StatsComponent } from './stats/stats.component';
 import { FooterComponent } from './footer/footer.component';
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { HttpClient } from '@angular/common/http';
@@ -26,8 +26,8 @@ import { environment } from 'src/environments/environment';
     ResponsiveToolbarComponent,
     HomeComponent,
     DownloadsComponent,
-    PresskitComponent,
-    StatsComponent,
+  //  PresskitComponent,
+  //  StatsComponent,
     FooterComponent
   ],
   imports: [
