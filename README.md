@@ -1,29 +1,28 @@
-# ArQmACommunity Pages
-[This github pages site](https://ArqTras.github.io/) belongs to the ArQmA Community. It hosts or links to various information about the ArQmA digital currency.
+# ArqmaWeb
 
-## Vision for This Site
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.8.
 
-The intent is to have a site that is easy to navigate, which collects information in one place for the ArQmA Community.
+## Development server
 
-## Site Repository Structure
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-In the main project directory:
+## Code scaffolding
 
-*   **index.md** is the home page content.
-*   **config.yml** sets the jekyll theme configuration.
-*   **README.md** is this content which you are reading.
-*   **assets/** holds images and css style modifications for the arqma-coin-info web pages.
-*   **_includes/** holds the markdown for each main section of content on the front page; one .md file per section.
-*   **How-Tos/** is a folder that holds any How-Tos which are hosted in this github project.
-*   **information/** is a folder to upload other information (nothing links to this yet).
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Contributing Here
-Contributions are encouraged!
+## Build
 
-*   **Suggestions/Additions:** Feel free to open an issue to report any errors, or to make suggestions, or to propose adding new content.
-*   **Link to a How-To:** If you want an ArQmA how-to linked from here, open an issue and someone will review and add it.
-*   **Hosting a How-To:** If you want to write a How-To and host it here, use the content in the **How-Tos** folder as examples. Create a branch and add a new How-To sub-folder. When the how-to is ready, add a link to it from the appropriate **.md** file in the **_includes** folder, and do a Pull Request.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-If there is not a timely response here on github, surf over to the ArQmA Discord community, and comment in the **publications** channel.
+## Running unit tests
 
--- ArQmA Community Contributors
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+

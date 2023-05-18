@@ -1,0 +1,482 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Quicksand", Sans-serif;
+}
+
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 2.5px;
+    line-height: 1;
+}
+
+h2 {
+    font-weight: 400;
+    letter-spacing: 2.5px;
+    line-height: 1;
+}
+
+h3 {
+    font-size: 1.6rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+}
+
+h5 {
+    font-size: 1.2rem;
+}
+
+h6 {
+    font-size: 1rem;
+}
+
+p {
+    color: #FFFFFF;
+    line-height: 1.6em;
+    letter-spacing: 0.6px;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    height: 2px;
+    border-width: 0;
+    color: gray;
+    background-color: #FDBF1E;
+}
+
+li {
+    color: white;
+    line-height: 1;
+    margin: 1rem;
+}
+
+
+.container {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100vw;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+/* social icons */
+.fab {
+    color: white;
+}
+
+.fab > figure {
+    height: 32px;
+    width: 32px;
+}
+
+.fab > figure > svg {
+}
+
+.hero-background {
+    background-image: url("../../assets/images/earth-mesh.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
+    min-height: 58vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hero-main {
+    display: inline-block;
+    max-width: 1140px;
+    padding: 4rem 0rem 4rem 0rem;
+}
+
+.hero-logo {
+    background-image: url("../../assets/images/arqma-logo-gold-237x237.png");
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+.hero-sub {
+    text-align: left;
+    color: white;
+    font-size: 1rem;
+}
+
+.hero-sub p {
+    display: flex;
+}
+
+.what-is-arqma {
+    background-color: #212121;
+}
+
+.whatIs-main {
+    max-width: 1140px;
+    display: inline-block;
+    padding: 4rem 0 4rem 0;
+    text-align: left;
+    font-size: 1.25rem;
+}
+
+.whatIs-logo {
+    float: left;
+    padding-right: 4rem;
+}
+
+.whatIs-text h2, .FGNetwork-text h2, .Founder-text h2, .Partners-text h2 {
+    color: #FDBF1E;
+    font-size: 2.8rem;
+    letter-spacing: 0.4px;
+}
+
+
+.what-is-arqma .row {
+    color: white;
+}
+
+.FGNetwork {
+    background-color: #343434;
+}
+
+.FGNetwork-main {
+    max-width: 1140px;
+    display: inline-block;
+    padding: 4rem 0 4rem 0;
+    text-align: left;
+    font-size: 1.25rem;
+}
+
+.FGNetwork-logo {
+    float: left;
+    padding-right: 4rem;
+}
+
+.FGNetwork-text {
+}
+
+.Founder {
+    background-color: #212121;
+}
+
+.Founder-main {
+    max-width: 1140px;
+    display: inline-block;
+    padding: 4rem 0 4rem 0;
+    text-align: left;
+    font-size: 1.25rem;
+    display: inline-flex;
+}
+
+.Founder-logo {
+    float: left;
+    padding-right: 4rem;
+}
+
+.Founder-text {
+}
+
+.Founder-text ul li:hover {
+    color: #FDBF1E;
+}
+
+.Exchanges {
+    background-image: url("../../assets/images/sponsor-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1rem;
+}
+
+.Exchanges-main {
+    max-width: 1140px;
+    display: inline-block;
+    padding: 4rem 0 4rem 0;
+    font-size: 1.25rem;
+}
+
+.Exchanges-logo {
+    float: left;
+    padding: 4rem 0 4rem 0;
+}
+
+.Exchanges-logo img {
+    padding: 1rem 1rem;
+}
+
+
+.Exchanges-text {
+}
+
+.Roadmap {
+    background-image: url("../../assets/images/roadmap-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1rem;
+}
+
+.Roadmap-main {
+    max-width: 1140px;
+    display: inline-block;
+    padding: 4rem 0 4rem 0;
+    font-size: 1.25rem;
+    text-align: left;
+}
+
+.Roadmap-text {
+    float: left;
+    width: 50%;
+}
+
+.Roadmap-logo {
+    padding: 4rem 0 4rem 0;
+}
+
+
+/* Roadmap button*/
+.button {
+    background-color: #FDBF1E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(49, 49, 49, 0.09), 0 17px 50px 0 rgba(95, 95, 95, 0.50);
+}
+
+
+.Partners {
+    background-image: url("../../assets/images/sponsor-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Partners-main {
+    max-width: 1140px;
+    display: inline-grid;
+    padding: 4rem 0 4rem 0;
+    font-size: 1.25rem;
+}
+
+.Partners h2 {
+    color: black
+}
+
+.Partners-logo {
+    float: left;
+}
+
+.Partners-text {
+}
+
+@media only screen and (max-width: 1200px) {
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 1.6rem;
+    }
+
+    h4 {
+        font-size: 1.4rem;
+    }
+
+    h5 {
+        font-size: 1.2rem;
+    }
+
+    h6 {
+        font-size: 1rem;
+    }
+
+    .hero-main {
+        padding: 2rem;
+    }
+
+    .what-is-arqma {
+        padding: 2rem;
+    }
+
+    .FGNetwork {
+        padding: 2rem;
+    }
+
+    .FGNetwork-text h2 {
+        font-size: 2rem;
+        line-height: 1;
+    }
+
+    .Founder-main {
+        padding: 2rem;
+    }
+
+    .FGNetwork-main img {
+        text-align: center;
+    }
+
+    .Exchanges-main {
+        padding: 2rem;
+    }
+
+    .Roadmap-main {
+        padding: 2rem;
+    }
+
+    .Roadmap-text {
+        float: none;
+    }
+
+    .Roadmap-text {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    ul {
+        padding: 0px;
+    }
+
+    .whatIs-main .column {
+        flex: 100%;
+    }
+
+    .whatIs-main .row {
+        display: inline-flex;
+    }
+
+    .hero-sub {
+        text-align: right;
+    }
+
+    .FGNetwork-main {
+        text-align: right;
+    }
+
+    .Founder-text {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    ul {
+        padding: 0rem;
+    }
+}
+
+
+@media only screen and (max-width: 650px) {
+    .Exchanges-logo img {
+        padding: 1rem 0rem;
+    }
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+    p, li {
+        font-size: 1.2rem;
+    }
+
+    .hero-sub {
+        text-align: center;
+    }
+
+    .whatIs-text h2 {
+        text-align: center;
+    }
+
+    .whatIs-logo {
+        float: none;
+        text-align: center;
+        padding-right: 1rem;
+    }
+
+    .hero-background {
+        padding: 2rem;
+    }
+
+    .hero-logo {
+        float: none;
+    }
+
+    .Founder-logo {
+        padding-right: 1rem;
+    }
+
+    .Founder-text h2 {
+        line-height: 1;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .hero-sub h1 {
+        font-size: 2.4rem;
+    }
+
+    .hero-sub h2 {
+        color: #FDBF1E;
+    }
+
+    .whatIs-logo[_ngcontent-kwk-c7] {
+        float: none;
+        text-align: center;
+    }
+
+    .whatIs-text {
+        text-align: center;
+    }
+
+
+    .FGNetwork-logo img {
+        display: none;
+    }
+
+    .FGNetwork-text {
+        text-align: center;
+    }
+
+    .FGNetwork-main img {
+        width: 100%;
+    }
+
+    .Founder-main {
+        display: inline-grid;
+    }
+
+    .Founder-logo {
+        text-align: center;
+    }
+
+    .Roadmap-main {
+        text-align: center;
+    }
+}
