@@ -1,6 +1,8 @@
 <mat-toolbar fxLayout="row" color="primary" class="header">
     <div fxFlex class="logo">
-        <img [src]="logo">
+        <a [routerLink]="['/']"> <!-- Přidání <a> tagu zde s routerLink="/", což vede na hlavní stránku -->
+            <img [src]="logo">
+        </a>
     </div>
     <!-- standard menu -->
     <div fxLayout="row" fxFlex="1 1 100%" fxHide.xs fxLayoutAlign="end" class="links">
