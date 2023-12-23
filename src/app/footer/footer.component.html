@@ -1,5 +1,5 @@
 <div class="footer" fxLayout="row" fxLayoutAlign="center center">
-    <div fxFlex="75%" style="text-align: center; flex-wrap: nowrap; color: white;">Copyright (c) 2019 - 2023, The ArQmA Project.</div>
+    <div fxFlex="75%" style="text-align: center; flex-wrap: nowrap; color: white;">Copyright (c) 2019 - 2024, The ArQmA Project.</div>
     <div fxFlex="15%" style="display: flex; justify-content: space-around;">
         <a href="https://chat.arqma.com/" target="_blank"><i class="fab fa-discord" style="color: white;"></i></a>
         <a href="mailto:support@arqma.com" target="_blank"><i class="fas fa-envelope" style="color: white;"></i></a>
@@ -9,23 +9,13 @@
         <a href="https://github.com/arqma" target="_blank"><i class="fab fa-github" style="color: white;"></i></a>
     </div>
     <div fxFlex="10%" style="display: flex; justify-content: center;">
-        <!-- Šipka nahoru -->
+        <!-- Up arrow -->
         <a href="#" onclick="scrollToTop(); return false;"><i class="fas fa-arrow-up" style="color: white;"></i></a>
     </div>
 </div>
 
 
 <script>
-function openWeChatPopup() {
-    var imageUrl = 'assets/images/wechat.png';
-    var popup = window.open(imageUrl, '_blank', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=400');
-    if (popup) {
-        popup.focus();
-    } else {
-        alert('Cannot open popup window due to browser blocking.');
-    }
-}
-
 function scrollToTop() {
     $('html, body').animate({scrollTop: 0}, 800);
     return false;
