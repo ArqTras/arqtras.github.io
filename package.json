@@ -1,6 +1,7 @@
 {
+  "homepage": "https://arqtras.github.io/",
   "name": "arqma-web",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
