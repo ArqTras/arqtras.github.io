@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Network Activity Report — Yearly</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net"/>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<style>
+:root{--bg:#0b1020;--panel:#121a2a;--text:#e5ecff;--muted:#97a3c0}
+*{box-sizing:border-box} body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial;background:var(--bg);color:var(--text)}
+header{padding:24px 18px;background:linear-gradient(180deg,rgba(122,162,255,.08),transparent);border-bottom:1px solid #1e2a44}
+h1{margin:0 0 6px;font-size:24px}.subtitle{color:var(--muted);font-size:14px}
+.wrap{max-width:1100px;margin:0 auto;padding:18px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:12px 0 20px}
+.card{background:#121a2a;border:1px solid #1e2a44;border-radius:16px;padding:14px;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+.kpis .label{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+.kpis .value{font-size:22px;font-weight:700;margin-top:4px}
+
+/* Stabilny, responsywny obszar wykresu */
+.chart-card{ padding:16px; }              /* karta jako ramka */
+.chart-wrap{
+  position: relative;
+  height: 420px;                          /* STAŁA wysokość */
+  width: 100%;
+}
+.chart-wrap > canvas{
+  width: 100% !important;                 /* płótno wypełnia wrapper */
+  height: 100% !important;
+  display: block;                         /* brak linii bazowej pod canvasem */
+}
+
+.table-wrap{max-height:75vh;overflow:auto;border:1px solid #1e2a44;border-radius:16px;margin-top:16px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{padding:8px 10px;border-bottom:1px solid #1e2a44} th{position:sticky;top:0;background:#0e1629;text-align:left}
+tbody tr:hover{background:rgba(122,162,255,.06)}
+.muted{color:#97a3c0}
+</style>
+</head>
+<body>
+<header class="wrap">
+  <h1>Network Activity Report — Yearly</h1>
+  <div class="subtitle">Auto-generated from <code>data.txt</code>. Latest date: <strong>2025</strong></div>
+</header>
+<main class="wrap">
+  <section class="kpis">
+    <div class="card"><div class="label">Blocks / Period (sum)</div><div class="value">149 347</div></div>
+    <div class="card"><div class="label">Txs / Period (sum)</div><div class="value">51 673</div></div>
+    <div class="card"><div class="label">Bytes / Period (sum)</div><div class="value">424 884 420</div></div>
+    <div class="card"><div class="label">Totals (last row)</div><div class="value">Blocks 1 772 672 • Txs 1 218 389 • Bytes 5 367 108 273</div></div>
+  </section>
+
+  <section class="card chart-card">
+    <div class="chart-wrap">
+      <canvas id="chart"></canvas>
+    </div>
+    <div class="muted" style="margin-top:8px;">Left: Blocks & Txs (per period) • Right: Bytes (MB)</div>
+  </section>
+
+  <section class="card table-wrap">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Blocks/period</th>
+          <th>Txs/period</th>
+          <th>Bytes/period</th>
+          <th>Blocks (total)</th>
+          <th>Txs (total)</th>
+          <th>Bytes (total)</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+</main>
+
+<script>
+var DATA = [{"bytes_total": 114, "txs_day": 0, "txs_total": 0, "blocks_total": 1, "blocks_day": 1, "date": "1970", "bytes_day": 114}, {"bytes_total": 679405933, "txs_day": 98717, "txs_total": 98717, "blocks_total": 80987, "blocks_day": 80986, "date": "2018", "bytes_day": 679405819}, {"bytes_total": 1927837190, "txs_day": 380130, "txs_total": 478847, "blocks_total": 341395, "blocks_day": 260408, "date": "2019", "bytes_day": 1248431257}, {"bytes_total": 2874793709, "txs_day": 302042, "txs_total": 780889, "blocks_total": 601397, "blocks_day": 260002, "date": "2020", "bytes_day": 946956519}, {"bytes_total": 3626312244, "txs_day": 156865, "txs_total": 937754, "blocks_total": 853799, "blocks_day": 252402, "date": "2021", "bytes_day": 751518535}, {"bytes_total": 4126742407, "txs_day": 100319, "txs_total": 1038073, "blocks_total": 1112487, "blocks_day": 258688, "date": "2022", "bytes_day": 500430163}, {"bytes_total": 4548051409, "txs_day": 66078, "txs_total": 1104151, "blocks_total": 1365442, "blocks_day": 252955, "date": "2023", "bytes_day": 421309002}, {"bytes_total": 4942223853, "txs_day": 62565, "txs_total": 1166716, "blocks_total": 1623325, "blocks_day": 257883, "date": "2024", "bytes_day": 394172444}, {"bytes_total": 5367108273, "txs_day": 51673, "txs_total": 1218389, "blocks_total": 1772672, "blocks_day": 149347, "date": "2025", "bytes_day": 424884420}];
+var FACTOR = 1;
+var MAX_SAMPLES = 1500;
+
+function fmt(x){ return (x===null||x===undefined)?'–':x.toLocaleString(); }
+function toMB(x){ return (x===null||x===undefined)?null:(x/1000000); }
+function thin(arr, f){ if (!f || f<=1) return arr.slice(0); var out=[]; for (var i=0;i<arr.length;i+=f) out.push(arr[i]); return out; }
+
+// USUŃ ewentualne końcowe „zerowe” wiersze bezpieczeństwa po stronie klienta
+while (DATA.length && ((DATA[DATA.length-1].blocks_day||0)===0
+  && (DATA[DATA.length-1].txs_day||0)===0
+  && (DATA[DATA.length-1].bytes_day||0)===0 )) { DATA.pop(); }
+
+// KPI
+var sumBlocks=0,sumTxs=0,sumBytes=0;
+for (var i=0;i<DATA.length;i++){ sumBlocks += (DATA[i].blocks_day||0); sumTxs += (DATA[i].txs_day||0); sumBytes += (DATA[i].bytes_day||0); }
+document.querySelectorAll('.kpis .value')[0].textContent = fmt(sumBlocks);
+document.querySelectorAll('.kpis .value')[1].textContent = fmt(sumTxs);
+document.querySelectorAll('.kpis .value')[2].textContent = fmt(sumBytes);
+document.querySelectorAll('.kpis .value')[3].innerHTML =
+  "Blocks " + fmt(DATA.length?DATA[DATA.length-1].blocks_total:null)
++ " • Txs " + fmt(DATA.length?DATA[DATA.length-1].txs_total:null)
++ " • Bytes " + fmt(DATA.length?DATA[DATA.length-1].bytes_total:null);
+
+// tabela
+var tbody = document.querySelector('#tbl tbody');
+for (var i=0;i<DATA.length;i++){
+  var d = DATA[i];
+  var tr = document.createElement('tr');
+  tr.innerHTML = ""
+    + "<td>" + d.date + "</td>"
+    + "<td>" + fmt(d.blocks_day) + "</td>"
+    + "<td>" + fmt(d.txs_day) + "</td>"
+    + "<td>" + fmt(d.bytes_day) + "</td>"
+    + "<td>" + fmt(d.blocks_total) + "</td>"
+    + "<td>" + fmt(d.txs_total) + "</td>"
+    + "<td>" + fmt(d.bytes_total) + "</td>";
+  tbody.appendChild(tr);
+}
+
+// wykres: responsywny, stabilny (stała wysokość wrappera), bez hover-rozszerzeń
+var labels = thin(DATA.map(function(d){ return d.date; }), FACTOR);
+var seriesB = thin(DATA.map(function(d){ return d.blocks_day; }), FACTOR);
+var seriesT = thin(DATA.map(function(d){ return d.txs_day; }), FACTOR);
+var seriesY = thin(DATA.map(function(d){ return toMB(d.bytes_day); }), FACTOR);
+
+new Chart(document.getElementById('chart'), {
+  type: 'line',
+  data: {
+    labels: labels,
+    datasets: [
+      { label:'Blocks/period', data:seriesB, yAxisID:'yL', tension:0, borderWidth:2, pointRadius:0, spanGaps:true },
+      { label:'Txs/period',    data:seriesT, yAxisID:'yL', tension:0, borderWidth:2, pointRadius:0, spanGaps:true },
+      { label:'Bytes/period (MB)', data:seriesY, yAxisID:'yR', tension:0, borderWidth:2, pointRadius:0, spanGaps:true }
+    ]
+  },
+  options: {
+    responsive:true,
+    maintainAspectRatio:false,  // pozwala canvasowi wypełnić .chart-wrap
+    animation:false,
+    interaction:{mode:'index', intersect:false},
+    plugins:{
+      legend:{ position:'top', labels:{ boxWidth:12, font:{ weight:'normal' } } },
+      decimation:{ enabled:true, algorithm:'lttb', samples: MAX_SAMPLES }
+    },
+    scales:{ yL:{type:'linear',position:'left'}, yR:{type:'linear',position:'right', grid:{drawOnChartArea:false} } }
+  }
+});
+</script>
+</body>
+</html>
